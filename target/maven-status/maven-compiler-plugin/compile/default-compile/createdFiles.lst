@@ -1,0 +1,8 @@
+E2E\Appium_Framework\Base.class
+E2E\Appium_Framework\TestData.class
+pageObjects\CartPage.class
+pageObjects\Homepage.class
+E2E\Appium_Framework\Utilities.class
+pageObjects\ProductsPage.class
+resources\Listeners.class
+resources\ExtentReporterNG.class

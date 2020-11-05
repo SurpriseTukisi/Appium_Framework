@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="142972" started-at="2020-11-05T08:10:16Z" finished-at="2020-11-05T08:12:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="142972" started-at="2020-11-05T08:10:16Z" finished-at="2020-11-05T08:12:39Z">
+      <class name="E2E.Appium_Framework.apiDemo">
+        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:E2E.Appium_Framework.apiDemo@23e028a9]" name="killAllNodes" is-config="true" duration-ms="3034" started-at="2020-11-05T08:10:16Z" finished-at="2020-11-05T08:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method status="PASS" signature="basicTest(java.lang.String)[pri:0, instance:E2E.Appium_Framework.apiDemo@23e028a9]" name="basicTest" duration-ms="75550" started-at="2020-11-05T08:10:19Z" data-provider="InputData" finished-at="2020-11-05T08:11:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jonathan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicTest -->
+        <test-method status="PASS" signature="basicTest(java.lang.String)[pri:0, instance:E2E.Appium_Framework.apiDemo@23e028a9]" name="basicTest" duration-ms="64311" started-at="2020-11-05T08:11:35Z" data-provider="InputData" finished-at="2020-11-05T08:12:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ethern]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicTest -->
+      </class> <!-- E2E.Appium_Framework.apiDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
